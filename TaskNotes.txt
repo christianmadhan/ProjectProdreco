@@ -1,0 +1,2 @@
+Removed submenu from all the pages.
+todo // remove submenu from css and js
